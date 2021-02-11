@@ -24,7 +24,7 @@ function LoginForm({ Login, error }) {
       </div>
 
       <div className="rightBlock">
-        <span>Welcome</span>
+        <span>Welcome back</span>
         <form onSubmit={submitHandler} className="form">
           <div className="form-inner ">
             <span className="loginAcc">Login to your account</span>
